@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BBrandford11
 - 👀 I’m interested in learning to code to make a career change.
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on any begginer meetups or projects to help me advance
+- 💞️ I’m looking to collaborate on any meetups or projects to help me advance
 - 📫 How to reach me https://twitter.com/BryceBrandford
 
 <!-- 
