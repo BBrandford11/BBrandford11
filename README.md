@@ -7,7 +7,12 @@
 <!-- 
 BBrandford11/BBrandford11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+
  -->
+ 
+ ![](https://komarev.com/ghpvc/?username=BBrandford11&color=brightgreen)
+
 
 <h1 align="center">Hi 👋, I'm Bryce Brandford</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
@@ -19,8 +24,8 @@ You can click the Preview link to take a look at your changes.
 
 &nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-pirozzini&show_icons=true&locale=en&layout=compact" alt="t-pirozzini" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BBrandford11&show_icons=true&locale=en&layout=compact" alt="t-pirozzini" /></p>
 
 &nbsp;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-pirozzini&show_icons=true&locale=en" alt="t-pirozzini" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BBrandford11&show_icons=true&locale=en" alt="t-pirozzini" /></p>
